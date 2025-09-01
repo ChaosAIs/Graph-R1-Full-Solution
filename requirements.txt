@@ -66,3 +66,13 @@ huggingface_hub
 modelscope
 #flash-attn==2.8.0.post2
 #accelerate
+
+# Work for convert document to markdown process.
+python-docx
+#PyMuPDF
+openpyxl
+xlrd
+python-dotenv
+#openai
+Pillow
+requests
